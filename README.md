@@ -2,7 +2,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mois%C3%A9s-guedes-b8a0a31b4)
 [![YouTube Badge](https://img.shields.io/badge/youtube--%2300EBEB?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCHF188E-BSPp0pi9IGQHUXw)
 
-Hello! You can call me Moisés 🎸 (I did not open the ocean, there is another history). I'm a Frontend Developer at Itix (remote position).
+Hello! You can call me Moisés 🎸 (I did not open the ocean, that is another history). I'm a Frontend Developer at Itix (remote position).
 
 My engineering background includes, but is not limited to, Angular, React web apps and Node.js. I love create new expiencies in web and learn about modern tools.
 
