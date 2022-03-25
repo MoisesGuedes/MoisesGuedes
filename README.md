@@ -1,16 +1,14 @@
-### Hi there 👋
+[![Twitter Badge](https://img.shields.io/twitter/follow/MoissGuedes5?color=%234fffff&label=%MoissGuedes5&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/MoissGuedes5)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mois%C3%A9s-guedes-b8a0a31b4)
+[![YouTube Badge](https://img.shields.io/badge/youtube--%2300EBEB?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCHF188E-BSPp0pi9IGQHUXw)
 
-<!--
-**MoisesGuedes/MoisesGuedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! You can call me Moisés (I did not open the ocean, there is another history) 👋. I'm a Frontend Developer at Itix (remote position).
 
-Here are some ideas to get you started:
+My engineering background includes, but is not limited to, Angular, React web apps and Node.js. I love create new expiencies in web and learn about modern tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏥 Currently I'm work with mobile develop using ionic. Including features and fixing bugs on unimed app (health insurance) for thousands users.
+
+- 📫 How to reach me: moisesguedesah@gmail.com
+
+- 🎮 Fun fact: I love music production, in the past i did a live show for hundreds of people.
+
