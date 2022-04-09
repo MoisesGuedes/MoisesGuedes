@@ -4,7 +4,7 @@
 
 Hello! You can call me Moisés 🎸 (I did not open the ocean, that is another history). I'm a Frontend Developer at Itix (remote position).
 
-My engineering background includes, but is not limited to, Angular, React web apps and Node.js. I love create new expiencies in web and learn about modern tools.
+My engineering background includes, but is not limited to, Angular, React, Ionic, Electron and Node.js. I love create new expiencies in web and learn about modern tools.
 
 - 🏥 Currently i’m work in a big brasilian software house called ITIX. as full stack developer, developing hibrid mobile for a famous brasilian health plan with more than three hundred thousand users.
 
